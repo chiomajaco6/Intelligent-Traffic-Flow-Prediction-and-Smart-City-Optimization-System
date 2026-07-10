@@ -1,0 +1,10 @@
+name: trafficiq
+title:
+username: trafficiq
+account: trafficiq
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17463610
+bundleId: 12119273
+url: https://trafficiq.shinyapps.io/trafficiq/
+version: 1
