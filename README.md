@@ -1,4 +1,40 @@
 # Intelligent Traffic Flow Prediction and Smart City Optimization System
+# Instructor/Coordinator: 
+-Dr. Jacinta Chioma Odirichukwu
+-Senior Lecturer, Department of Computer Science, School of Information and Communication Technology
+-Federal University of Technology, Owerri, Imo State
+# Project Team Members
+1. Anthony Chukwuemeka
+2. Alabila Mark Ojochogwu
+3. Chika Ude Kalu
+4. Elefue Divine Onyinyechi
+5. Jibulu Chinecherem Favour
+6. Nnaji Kelvin Ezenwa
+7. Wisdom Chidiebere
+8. OBASI SAMUEL CHIDIEBERE
+9. Okolie Chinemerem
+10. Patrick Success Ikechukwu
+11. Iwuoha Martins Ikechukwu
+12. Onu Hyacinth Chidubem
+13. Nnolum Festus Chidera
+14. NNANNA GOODNESS NMA
+15. ONWE DAVID IFEANYICHUKWU
+16. Eyo Wisdom Archibong
+17. Abonyi Somto Victor
+18. Onwuka Uchechukwu Stanley
+19. Ehiogu Chinemerem Justice
+20. Eze Donald
+21. Okpara Joseph Uchenna
+22. Elekwa Valentine Asor
+23. Moses Mkpume
+24. UBONG-ABASI NSIMA UMOH
+25. Lazarus Favour Tochukwu
+26. Dike Chinedu
+27. John Emmanuel NnaNna
+28. Ijere Saviour Tochukwu
+29. Onyejesi Chiemezie Mitchell
+30. Duru Bede Chinweotito
+
 
 <img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/b8a88ad8-d726-4793-9124-7d772e6dadeb" />
 
