@@ -115,3 +115,7 @@ preds <- predict(model, newdata = your_new_data)
 ## Contact
 
 - For questions, open an issue or contact the repository maintainer.
+
+
+This is the link to the web application 
+https://trafficiq.shinyapps.io/trafficiq/
